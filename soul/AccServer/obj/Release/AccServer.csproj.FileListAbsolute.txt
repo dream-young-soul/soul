@@ -1,0 +1,8 @@
+E:\soul\soul\AccServer\bin\Release\AccServer.exe.config
+E:\soul\soul\AccServer\bin\Release\AccServer.exe
+E:\soul\soul\AccServer\bin\Release\AccServer.pdb
+E:\soul\soul\AccServer\bin\Release\GameBase.dll
+E:\soul\soul\AccServer\bin\Release\GameBase.pdb
+E:\soul\soul\AccServer\obj\Release\AccServer.csprojResolveAssemblyReference.cache
+E:\soul\soul\AccServer\obj\Release\AccServer.exe
+E:\soul\soul\AccServer\obj\Release\AccServer.pdb

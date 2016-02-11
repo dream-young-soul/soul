@@ -1,0 +1,8 @@
+E:\soul\soul\LoginServer\bin\Release\LoginServer.exe.config
+E:\soul\soul\LoginServer\bin\Release\LoginServer.exe
+E:\soul\soul\LoginServer\bin\Release\LoginServer.pdb
+E:\soul\soul\LoginServer\bin\Release\GameBase.dll
+E:\soul\soul\LoginServer\bin\Release\GameBase.pdb
+E:\soul\soul\LoginServer\obj\Release\LoginServer.csprojResolveAssemblyReference.cache
+E:\soul\soul\LoginServer\obj\Release\LoginServer.exe
+E:\soul\soul\LoginServer\obj\Release\LoginServer.pdb

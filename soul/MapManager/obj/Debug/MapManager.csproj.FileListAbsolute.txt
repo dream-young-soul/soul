@@ -1,0 +1,29 @@
+E:\soul\Soul\MapManager\bin\Debug\MapManager.exe.config
+D:\Dawn of Light\soul\Soul\MapManager\bin\Debug\MapManager.exe.config
+D:\Dawn of Light\soul\Soul\MapManager\bin\Debug\MapManager.exe
+D:\Dawn of Light\soul\Soul\MapManager\bin\Debug\MapManager.pdb
+D:\Dawn of Light\soul\Soul\MapManager\obj\Debug\MapManager.exe
+D:\Dawn of Light\soul\Soul\MapManager\obj\Debug\MapManager.pdb
+E:\soul\Soul\MapManager\obj\Debug\MapManager.exe
+E:\soul\Soul\MapManager\obj\Debug\MapManager.pdb
+E:\soul\Soul\MapManager\bin\Debug\MapManager.exe
+E:\soul\Soul\MapManager\bin\Debug\MapManager.pdb
+E:\soul\Soul\MapManager\bin\Debug\GameBase.dll
+E:\soul\Soul\MapManager\bin\Debug\GameBase.pdb
+E:\soul\soul\Soul\MapManager\bin\Debug\MapManager.exe.config
+E:\soul\soul\Soul\MapManager\bin\Debug\MapManager.exe
+E:\soul\soul\Soul\MapManager\bin\Debug\MapManager.pdb
+E:\soul\soul\Soul\MapManager\bin\Debug\GameBase.dll
+E:\soul\soul\Soul\MapManager\bin\Debug\GameBase.pdb
+E:\soul\soul\Soul\MapManager\obj\Debug\MapManager.csprojResolveAssemblyReference.cache
+E:\soul\soul\Soul\MapManager\obj\Debug\MapManager.exe
+E:\soul\soul\Soul\MapManager\obj\Debug\MapManager.pdb
+D:\soul\server\soul\MapManager\bin\Debug\MapManager.exe.config
+D:\soul\server\soul\MapManager\bin\Debug\MapManager.exe
+D:\soul\server\soul\MapManager\bin\Debug\MapManager.pdb
+D:\soul\server\soul\MapManager\bin\Debug\GameBase.dll
+D:\soul\server\soul\MapManager\bin\Debug\GameBase.pdb
+D:\soul\server\soul\MapManager\obj\Debug\MapManager.csprojResolveAssemblyReference.cache
+D:\soul\server\soul\MapManager\obj\Debug\MapManager.exe
+D:\soul\server\soul\MapManager\obj\Debug\MapManager.pdb
+E:\soul\soul\MapManager\obj\Debug\MapManager.csprojResolveAssemblyReference.cache

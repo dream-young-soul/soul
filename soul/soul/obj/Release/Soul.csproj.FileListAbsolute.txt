@@ -1,0 +1,8 @@
+E:\soul\Soul\Soul\bin\Release\Soul.exe.config
+E:\soul\Soul\Soul\bin\Release\Soul.exe
+E:\soul\Soul\Soul\bin\Release\Soul.pdb
+E:\soul\Soul\Soul\bin\Release\GameBase.dll
+E:\soul\Soul\Soul\bin\Release\GameBase.pdb
+E:\soul\Soul\Soul\obj\Release\Soul.csprojResolveAssemblyReference.cache
+E:\soul\Soul\Soul\obj\Release\Soul.exe
+E:\soul\Soul\Soul\obj\Release\Soul.pdb

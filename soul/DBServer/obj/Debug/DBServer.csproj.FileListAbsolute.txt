@@ -1,0 +1,12 @@
+E:\soul\soul\DBServer\bin\Debug\DBServer.exe.config
+E:\soul\soul\DBServer\bin\Debug\DBServer.exe
+E:\soul\soul\DBServer\bin\Debug\DBServer.pdb
+E:\soul\soul\DBServer\bin\Debug\GameBase.dll
+E:\soul\soul\DBServer\bin\Debug\MySql.Data.dll
+E:\soul\soul\DBServer\bin\Debug\GameBase.pdb
+E:\soul\soul\DBServer\obj\Debug\DBServer.csprojResolveAssemblyReference.cache
+E:\soul\soul\DBServer\obj\Debug\DBServer.exe
+E:\soul\soul\DBServer\obj\Debug\DBServer.pdb
+E:\soul\trunk\DBServer\DBServer.exe.config
+E:\soul\trunk\DBServer\DBServer.exe
+E:\soul\trunk\DBServer\DBServer.pdb

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5756B7E5-D8AF-4D18-93DC-36207BE007F6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MapServer</RootNamespace>
+    <AssemblyName>MapServer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\trunk\MapServer\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnShaXieLongObject.cs" />
+    <Compile Include="BaseAI.cs" />
+    <Compile Include="BaseObject.cs" />
+    <Compile Include="BattleSystem.cs" />
+    <Compile Include="ConfigManager.cs" />
+    <Compile Include="DBServer.cs" />
+    <Compile Include="DiYuXieFu.cs" />
+    <Compile Include="DropItemObject.cs" />
+    <Compile Include="EffectObject.cs" />
+    <Compile Include="EquipOperation.cs" />
+    <Compile Include="EudemonObject.cs" />
+    <Compile Include="FightKnightObject.cs" />
+    <Compile Include="GameMap.cs" />
+    <Compile Include="GameStruct.cs" />
+    <Compile Include="GMCommand.cs" />
+    <Compile Include="GuanJue.cs" />
+    <Compile Include="GuardKnightObject.cs" />
+    <Compile Include="LegionManager.cs" />
+    <Compile Include="MapManager.cs" />
+    <Compile Include="MapPath.cs" />
+    <Compile Include="MeleeAI.cs" />
+    <Compile Include="MingGuoShengNv.cs" />
+    <Compile Include="MonsterObject.cs" />
+    <Compile Include="NetMsg.cs" />
+    <Compile Include="GameServer.cs" />
+    <Compile Include="PayManager.cs" />
+    <Compile Include="PlayerEudemon.cs" />
+    <Compile Include="PlayerFight.cs" />
+    <Compile Include="PlayerFriend.cs" />
+    <Compile Include="PlayerItem.cs" />
+    <Compile Include="PlayerLegion.cs" />
+    <Compile Include="PlayerMagic.cs" />
+    <Compile Include="PlayerObject.cs" />
+    <Compile Include="PlayerPK.cs" />
+    <Compile Include="PlayerTimer.cs" />
+    <Compile Include="PlayerTrad.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PtichManager.cs" />
+    <Compile Include="RobotObject.cs" />
+    <Compile Include="ScripteManager.cs" />
+    <Compile Include="ScriptTimerManager.cs" />
+    <Compile Include="SessionManager.cs" />
+    <Compile Include="ShenYuanELing.cs" />
+    <Compile Include="ShiHunWuLing.cs" />
+    <Compile Include="SocketCallBack.cs" />
+    <Compile Include="StringDefine.cs" />
+    <Compile Include="TeamManager.cs" />
+    <Compile Include="UserEngine.cs" />
+    <Compile Include="WangNianWuLing.cs" />
+    <Compile Include="WorldPigeon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GameBase\GameBase.csproj">
+      <Project>{c297026c-c53a-4355-a861-dd6d3938dc93}</Project>
+      <Name>GameBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,28 @@
+E:\soul\Soul\LoginServer\bin\Debug\LoginServer.exe.config
+D:\Dawn of Light\soul\Soul\LoginServer\bin\Debug\LoginServer.exe.config
+D:\Dawn of Light\soul\Soul\LoginServer\bin\Debug\LoginServer.exe
+D:\Dawn of Light\soul\Soul\LoginServer\bin\Debug\LoginServer.pdb
+D:\Dawn of Light\soul\Soul\LoginServer\obj\Debug\LoginServer.exe
+D:\Dawn of Light\soul\Soul\LoginServer\obj\Debug\LoginServer.pdb
+E:\soul\Soul\LoginServer\obj\Debug\LoginServer.exe
+E:\soul\Soul\LoginServer\obj\Debug\LoginServer.pdb
+E:\soul\Soul\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+E:\soul\Soul\LoginServer\bin\Debug\LoginServer.exe
+E:\soul\Soul\LoginServer\bin\Debug\LoginServer.pdb
+E:\soul\Soul\LoginServer\bin\Debug\GameBase.dll
+E:\soul\Soul\LoginServer\bin\Debug\GameBase.pdb
+E:\soul\trunk\LoginServer\LoginServer.exe.config
+E:\soul\trunk\LoginServer\LoginServer.exe
+E:\soul\trunk\LoginServer\LoginServer.pdb
+E:\soul\soul\trunk\LoginServer\LoginServer.exe.config
+E:\soul\soul\trunk\LoginServer\LoginServer.exe
+E:\soul\soul\trunk\LoginServer\LoginServer.pdb
+E:\soul\soul\Soul\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+E:\soul\soul\Soul\LoginServer\obj\Debug\LoginServer.exe
+E:\soul\soul\Soul\LoginServer\obj\Debug\LoginServer.pdb
+D:\soul\server\trunk\LoginServer\LoginServer.exe.config
+D:\soul\server\trunk\LoginServer\LoginServer.exe
+D:\soul\server\trunk\LoginServer\LoginServer.pdb
+D:\soul\server\soul\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+D:\soul\server\soul\LoginServer\obj\Debug\LoginServer.exe
+D:\soul\server\soul\LoginServer\obj\Debug\LoginServer.pdb

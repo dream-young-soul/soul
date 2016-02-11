@@ -1,0 +1,7 @@
+E:\soul\soul\MapManager\bin\Release\MapManager.exe.config
+E:\soul\soul\MapManager\bin\Release\MapManager.exe
+E:\soul\soul\MapManager\bin\Release\MapManager.pdb
+E:\soul\soul\MapManager\bin\Release\GameBase.dll
+E:\soul\soul\MapManager\bin\Release\GameBase.pdb
+E:\soul\soul\MapManager\obj\Release\MapManager.exe
+E:\soul\soul\MapManager\obj\Release\MapManager.pdb

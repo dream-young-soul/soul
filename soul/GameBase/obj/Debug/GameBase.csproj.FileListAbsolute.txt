@@ -1,0 +1,19 @@
+E:\soul\Soul\GameBase\bin\Debug\GameBase.dll
+E:\soul\Soul\GameBase\bin\Debug\GameBase.pdb
+E:\soul\Soul\GameBase\obj\Debug\GameBase.dll
+E:\soul\Soul\GameBase\obj\Debug\GameBase.pdb
+D:\Dawn of Light\soul\Soul\GameBase\bin\Debug\GameBase.dll
+D:\Dawn of Light\soul\Soul\GameBase\bin\Debug\GameBase.pdb
+D:\Dawn of Light\soul\Soul\GameBase\obj\Debug\GameBase.csprojResolveAssemblyReference.cache
+D:\Dawn of Light\soul\Soul\GameBase\obj\Debug\GameBase.dll
+D:\Dawn of Light\soul\Soul\GameBase\obj\Debug\GameBase.pdb
+E:\soul\soul\Soul\GameBase\bin\Debug\GameBase.dll
+E:\soul\soul\Soul\GameBase\bin\Debug\GameBase.pdb
+E:\soul\soul\Soul\GameBase\obj\Debug\GameBase.csprojResolveAssemblyReference.cache
+E:\soul\soul\Soul\GameBase\obj\Debug\GameBase.dll
+E:\soul\soul\Soul\GameBase\obj\Debug\GameBase.pdb
+D:\soul\server\soul\GameBase\bin\Debug\GameBase.dll
+D:\soul\server\soul\GameBase\bin\Debug\GameBase.pdb
+D:\soul\server\soul\GameBase\obj\Debug\GameBase.csprojResolveAssemblyReference.cache
+D:\soul\server\soul\GameBase\obj\Debug\GameBase.dll
+D:\soul\server\soul\GameBase\obj\Debug\GameBase.pdb

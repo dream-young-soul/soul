@@ -1,0 +1,32 @@
+E:\soul\AccServer\bin\Debug\AccServer.exe.config
+E:\soul\Soul\AccServer\bin\Debug\AccServer.exe.config
+E:\soul\Soul\AccServer\bin\Debug\AccServer.exe
+E:\soul\Soul\AccServer\bin\Debug\AccServer.pdb
+E:\soul\Soul\AccServer\obj\Debug\AccServer.csprojResolveAssemblyReference.cache
+E:\soul\Soul\AccServer\obj\Debug\AccServer.exe
+E:\soul\Soul\AccServer\obj\Debug\AccServer.pdb
+E:\soul\Soul\AccServer\bin\Debug\GameBase.dll
+E:\soul\Soul\AccServer\bin\Debug\GameBase.pdb
+D:\Dawn of Light\soul\Soul\AccServer\bin\Debug\AccServer.exe.config
+D:\Dawn of Light\soul\Soul\AccServer\obj\Debug\AccServer.exe
+D:\Dawn of Light\soul\Soul\AccServer\obj\Debug\AccServer.pdb
+D:\Dawn of Light\soul\Soul\AccServer\bin\Debug\AccServer.exe
+D:\Dawn of Light\soul\Soul\AccServer\bin\Debug\AccServer.pdb
+D:\Dawn of Light\soul\Soul\AccServer\bin\Debug\GameBase.dll
+D:\Dawn of Light\soul\Soul\AccServer\bin\Debug\GameBase.pdb
+D:\Dawn of Light\soul\Soul\AccServer\obj\Debug\AccServer.csprojResolveAssemblyReference.cache
+E:\soul\trunk\AccServer\AccServer.exe.config
+E:\soul\trunk\AccServer\AccServer.exe
+E:\soul\trunk\AccServer\AccServer.pdb
+E:\soul\soul\trunk\AccServer\AccServer.exe.config
+E:\soul\soul\trunk\AccServer\AccServer.exe
+E:\soul\soul\trunk\AccServer\AccServer.pdb
+E:\soul\soul\Soul\AccServer\obj\Debug\AccServer.csprojResolveAssemblyReference.cache
+E:\soul\soul\Soul\AccServer\obj\Debug\AccServer.exe
+E:\soul\soul\Soul\AccServer\obj\Debug\AccServer.pdb
+D:\soul\server\trunk\AccServer\AccServer.exe.config
+D:\soul\server\trunk\AccServer\AccServer.exe
+D:\soul\server\trunk\AccServer\AccServer.pdb
+D:\soul\server\soul\AccServer\obj\Debug\AccServer.csprojResolveAssemblyReference.cache
+D:\soul\server\soul\AccServer\obj\Debug\AccServer.exe
+D:\soul\server\soul\AccServer\obj\Debug\AccServer.pdb

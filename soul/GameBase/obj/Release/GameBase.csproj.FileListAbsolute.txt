@@ -1,0 +1,5 @@
+E:\soul\Soul\GameBase\bin\Release\GameBase.dll
+E:\soul\Soul\GameBase\bin\Release\GameBase.pdb
+E:\soul\Soul\GameBase\obj\Release\GameBase.dll
+E:\soul\Soul\GameBase\obj\Release\GameBase.pdb
+E:\soul\soul\GameBase\obj\Release\GameBase.csprojResolveAssemblyReference.cache

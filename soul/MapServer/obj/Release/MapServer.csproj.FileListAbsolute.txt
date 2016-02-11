@@ -1,0 +1,8 @@
+E:\soul\Soul\MapServer\bin\Release\MapServer.exe.config
+E:\soul\Soul\MapServer\bin\Release\MapServer.exe
+E:\soul\Soul\MapServer\bin\Release\MapServer.pdb
+E:\soul\Soul\MapServer\bin\Release\GameBase.dll
+E:\soul\Soul\MapServer\bin\Release\GameBase.pdb
+E:\soul\Soul\MapServer\obj\Release\MapServer.csprojResolveAssemblyReference.cache
+E:\soul\Soul\MapServer\obj\Release\MapServer.exe
+E:\soul\Soul\MapServer\obj\Release\MapServer.pdb

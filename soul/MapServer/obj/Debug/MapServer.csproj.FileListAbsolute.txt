@@ -1,0 +1,31 @@
+E:\soul\Soul\MapServer\bin\Debug\MapServer.exe.config
+D:\Dawn of Light\soul\Soul\MapServer\bin\Debug\MapServer.exe.config
+D:\Dawn of Light\soul\Soul\MapServer\bin\Debug\MapServer.exe
+D:\Dawn of Light\soul\Soul\MapServer\bin\Debug\MapServer.pdb
+D:\Dawn of Light\soul\Soul\MapServer\obj\Debug\MapServer.csprojResolveAssemblyReference.cache
+D:\Dawn of Light\soul\Soul\MapServer\obj\Debug\MapServer.exe
+D:\Dawn of Light\soul\Soul\MapServer\obj\Debug\MapServer.pdb
+E:\soul\Soul\MapServer\bin\Debug\MapServer.exe
+E:\soul\Soul\MapServer\bin\Debug\MapServer.pdb
+E:\soul\Soul\MapServer\bin\Debug\GameBase.dll
+E:\soul\Soul\MapServer\bin\Debug\GameBase.pdb
+E:\soul\Soul\MapServer\obj\Debug\MapServer.exe
+E:\soul\Soul\MapServer\obj\Debug\MapServer.pdb
+E:\soul\trunk\MapServer\MapServer.exe.config
+E:\soul\trunk\MapServer\MapServer.exe
+E:\soul\trunk\MapServer\MapServer.pdb
+E:\soul\soul\trunk\MapServer\MapServer.exe.config
+E:\soul\soul\Soul\MapServer\obj\Debug\MapServer.exe
+E:\soul\soul\Soul\MapServer\obj\Debug\MapServer.pdb
+E:\soul\soul\trunk\MapServer\MapServer.exe
+E:\soul\soul\trunk\MapServer\MapServer.pdb
+E:\soul\soul\Soul\MapServer\obj\Debug\MapServer.csprojResolveAssemblyReference.cache
+D:\soul\server\trunk\MapServer\MapServer.exe.config
+D:\soul\server\soul\MapServer\obj\Debug\MapServer.exe
+D:\soul\server\soul\MapServer\obj\Debug\MapServer.pdb
+D:\soul\server\trunk\MapServer\MapServer.exe
+D:\soul\server\trunk\MapServer\MapServer.pdb
+D:\soul\server\soul\MapServer\obj\Debug\MapServer.csprojResolveAssemblyReference.cache
+D:\qqdata\337918198\FileRecv\MobileFile\soul\trunk\MapServer\MapServer.exe.config
+D:\qqdata\337918198\FileRecv\MobileFile\soul\soul\MapServer\obj\Debug\MapServer.exe
+E:\soul\Soul\MapServer\obj\Debug\MapServer.csprojResolveAssemblyReference.cache
