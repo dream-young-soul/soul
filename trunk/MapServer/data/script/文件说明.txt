@@ -1,0 +1,5 @@
+roleinfo.txt  	创建角色
+scrool.txt	卷轴类
+deleteitem.txt	删除道具
+magicbook.txt	技能书
+other.txt	杂类

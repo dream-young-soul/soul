@@ -1,0 +1,6 @@
+//强化属性加成表
+//类型,强化等级,加成生命,最大攻击,最小攻击,物理防御,最大魔法攻击,最小魔法攻击,魔法防御,躲避
+//类型注释:1.头盔 2.项链 3.盔甲 4.武器 6.戒指 7.宝物 8.鞋子
+#type,level,life,max_attack,min_attack,defense,max_magicack,min_magicack,magic_defense,dodge
+//头盔
+1,1,100,50,50,200,100,50,5000,5000
